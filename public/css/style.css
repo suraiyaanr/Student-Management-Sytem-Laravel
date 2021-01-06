@@ -13,7 +13,7 @@
 
 .bg-light {
 
-    background: #425856 !important;
+    background: #e10535 !important;
     -webkit-box-shadow: 5px 9px 43px 1px rgba(0,0,0,0.18); 
 	box-shadow: 5px 9px 43px 1px rgba(0,0,0,0.18);
     position: sticky;
@@ -23,6 +23,7 @@
 .bg-light > a {
     color: #fff !important;
 }
+
 .navbar-nav > a {
     color: #fff !important;
 }
@@ -39,7 +40,7 @@ body {
 }
 .card {
     border : none !important;
-    border-bottom: 3px solid #425856 !important;
+    border-bottom: 3px solid #e10535 !important;
 }
 input[type=text] {
 
@@ -53,17 +54,14 @@ input[type=text]:focus{
     border: none !important;
     box-shadow: 0px 4px 5px #ccc !important;
 }
-.thead-light {
-
-}
 .table .thead-light th {
     color : #fff !important;
-    background: #425856 !important;
+    background: #e10535 !important;
     border: none !important;
 }
 footer {
     height: 10px;
     width: 100%;
     margin-top: 60px;
-    background:#425856 ;
+    background:#eee ;
 }

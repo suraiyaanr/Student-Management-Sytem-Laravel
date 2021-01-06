@@ -1,6 +1,6 @@
 
 <div class="card mb-3">
-    <img src="https://www.engage2serve.com/blog/wp-content/uploads/2019/04/header.jpg" class="card-img-top" alt="...">
+    <img src="https://www.softwaresuggest.com/blog/wp-content/uploads/2018/12/student-management.png" class="card-img-top" alt="...">
     <div class="card-body">
         <h5 class="card-title">Students list</h5>
 

@@ -38,9 +38,9 @@
             <section class="col-md-5">
 
                 <div class="card mb-3">
-                    <img src="https://st2.depositphotos.com/5425740/11034/v/600/depositphotos_110341528-stock-illustration-set-of-students-illustration.jpg" class="card-img-top" alt="...">
+                    <img src="https://www.myclassboard.com/wp-content/uploads/2020/08/blog5.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Enter the informations of the new student</h5>
+                        <h5 class="card-title">Register New Student</h5>
                         <form action="{{ url('/store') }}" method="post">
                             @csrf
                             <div class="form-group">
@@ -94,7 +94,7 @@
             <section class="col-md-5">
 
                 <div class="card mb-3">
-                    <img src="https://marketplace.canva.com/MAB7yqsko0c/1/screen_2x/canva-smart-little-schoolgirl--MAB7yqsko0c.jpg" class="card-img-top" alt="...">
+                    <img src="https://www.myclassboard.com/wp-content/uploads/2020/08/blog5.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Update informations of student</h5>
                         <form action="{{ url('/update/'.$student->id) }}" method="post">
